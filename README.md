@@ -1,4 +1,4 @@
-# spotify-streams-dashboard
+# Spotify Streams Dashboard
 
 Dashboard desenvolvido em Power BI para análise de streams do Spotify utilizando um dataset do Kaggle.
 
