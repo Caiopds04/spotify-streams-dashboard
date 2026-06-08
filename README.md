@@ -27,3 +27,5 @@ Explorar dados de artistas e músicas populares através de visualizações inte
 - Power Query
 
 ## Dashboard
+
+![Dashboard Spotify](Screenshot_1.png)
